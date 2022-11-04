@@ -1,0 +1,11 @@
+.b{
+    background-image: url(02.jpg);
+width: 121px;
+height: 118px;
+background-repeat: no-repeat;
+background-position: 0 -121px;
+transition: 1s;
+}
+.b:hover{
+    background-position: 0 0;
+}
